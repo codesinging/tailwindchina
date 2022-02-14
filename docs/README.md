@@ -23,4 +23,11 @@ features:
   details: 官方和社区贡献的优秀的 TailwindCSS 插件。
 - title: 工具
   details: 关于 TailwindCSS 的生态及周边工具资源。
+footer: MIT Licensed | Copyright © 2020 TailwindCSS 中文网
 ---
+
+---
+
+<div>
+<discussion-contact />
+</div>

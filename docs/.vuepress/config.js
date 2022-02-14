@@ -4,6 +4,10 @@ module.exports = {
     lang: 'zh-CN',
     title: 'TailwindCSS 中文网',
     description: 'TailwindCSS 指南、教程、文档、主题、模板、组件、插件、工具等相关资源',
+    head: [
+        ['meta', {name: 'keywords', content: 'TailwindCSS中文网, TailwindCSS中文文档, TailwindCSS文档, TailwindCSS中国, TailwindCSS教程'}],
+        ['link', {rel: 'icon', href: '/images/logo@0.5x.png'}]
+    ],
     themeConfig: {
         logo: '/images/logo@0.5x.png',
         repo: 'codesinging/tailwindchina',
@@ -23,7 +27,6 @@ module.exports = {
         lastUpdatedText: '最后更新',
         contributors: true,
         contributorsText: '贡献者',
-        notFound: '页面不存在',
         backToHome: '返回首页',
         toggleDarkMode: '切换黑暗模式',
     },

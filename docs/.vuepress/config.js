@@ -1,6 +1,7 @@
 const {path} = require('@vuepress/utils')
 
 module.exports = {
+    base: '/tailwindchina/',
     lang: 'zh-CN',
     title: 'TailwindCSS 中文网',
     description: 'TailwindCSS 指南、教程、文档、主题、模板、组件、插件、工具等相关资源',

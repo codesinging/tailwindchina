@@ -1,1 +1,0 @@
-import{r as n,o as t,c,b as e,d as s,F as r}from"./app.4ff76486.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const _={},l=e("hr",null,null,-1);function d(i,m){const o=n("discussion-contact");return t(),c(r,null,[l,e("div",null,[s(o)])],64)}var p=a(_,[["render",d]]);export{p as default};
